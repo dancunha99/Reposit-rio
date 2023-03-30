@@ -1,6 +1,6 @@
 ## Meu nome é Daniel Cunha
 - 📍 Belo Horizonte-MG
-- 🌱 Atualmente estou estudando desenvolvimento front-end
+- 🌱 Atualmente estou estudando desenvolvimento web
 
 ##
 
