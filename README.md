@@ -1,7 +1,7 @@
 ## Meu nome é Daniel Cunha
 - 📍 Belo Horizonte-MG
-- 💻 Análise e Desenvolvimento de Sistemas - UNA
-- 🌱 Atualmente estou estudando desenvolvimento web
+- 🎓 Análise e Desenvolvimento de Sistemas - UNA
+- 💻 Atualmente estou estudando desenvolvimento web
 
 ##
 
