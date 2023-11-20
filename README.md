@@ -1,12 +1,12 @@
 ## Meu nome é Daniel Cunha
 - 📍 Belo Horizonte-MG
-- 🎓 Análise e Desenvolvimento de Sistemas - UNA
-- 💻 Atualmente estou estudando desenvolvimento web
+- 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas - UNA
 
 ##
 
 <img align="center" alt="daniel-html" height="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="daniel-css" height="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="daniel-js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ##
 
